@@ -1,4 +1,4 @@
-# This Only For Education purpose
+# This tool is Only For Education purpose
 
 Overview
 * This tool generates a wide variety of XSS payloads using advanced obfuscation techniques to evade character-based filters, pattern matching, and signature detection mechanisms commonly employed by WAFs.
