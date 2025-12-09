@@ -1,7 +1,7 @@
 # This Only For Education purpose
 
 Overview
-This tool generates a wide variety of XSS payloads using advanced obfuscation techniques to evade character-based filters, pattern matching, and signature detection mechanisms commonly employed by WAFs.
+* This tool generates a wide variety of XSS payloads using advanced obfuscation techniques to evade character-based filters, pattern matching, and signature detection mechanisms commonly employed by WAFs.
 Features
 
 * 1 Multiple Obfuscation Techniques: Over 30 different evasion methods
